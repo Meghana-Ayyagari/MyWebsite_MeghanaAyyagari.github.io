@@ -23,16 +23,7 @@ Here you'll find:
 - CSS
 - JavaScript
 - Hosted on GitHub Pages
-
-## 🚀 Run It Locally
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-```
-
-Then open `index.html` in your browser. No installation needed.
-
+- 
 ## 🎨 Design Approach
 
 - Minimal and uncluttered
@@ -42,7 +33,6 @@ Then open `index.html` in your browser. No installation needed.
 
 ## 📬 Let's Connect
 - 📧 Email: asrimeghana012@gmail.com
-- 🐙 GitHub: [@meghana-ayyagari](https://meghana-ayyagari.github.io/MyWebsite_MeghanaAyyagari.github.io/)
 
 ---
 
