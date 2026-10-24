@@ -42,7 +42,7 @@ Then open `index.html` in your browser. No installation needed.
 
 ## 📬 Let's Connect
 - 📧 Email: asrimeghana012@gmail.com
-- 🐙 GitHub: [@your-username](https://meghana-ayyagari.github.io/MyWebsite_MeghanaAyyagari.github.io/)
+- 🐙 GitHub: [@meghana-ayyagari](https://meghana-ayyagari.github.io/MyWebsite_MeghanaAyyagari.github.io/)
 
 ---
 
